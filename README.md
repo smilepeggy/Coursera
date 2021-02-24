@@ -1,5 +1,5 @@
 # Coursera
-Coursera course: HTML, CSS, and Javascript for Web Developers
+Coursera course: HTML, CSS, and Javascript for Web Developers by Johns Hopkins University 
 
 practices and assignments
 
@@ -31,15 +31,37 @@ The program should say "Hello" to any name except names that start with a "J" or
 on the console should look like this:
 
 Hello Yaakov
+
 Good Bye John
+
 Good Bye Jen
+
 Good Bye Jason
+
 Hello Paul
+
 Hello Frank
+
 Hello Larry
+
 Hello Paula
+
 Hello Laura
+
 Good Bye Jim
 
 Website link: https://smilepeggy.github.io/Coursera/assignments/assignment4-solution/harder/
+
+
+## Assignment 5-solution
+Task: 
+* Load the home page in the browser.
+* Click on the Specials tile. A single page category with a list of menu items for *some* category should appear.
+* Click on the restaurant logo to go back to the home page.
+* Click on the Specials tile again. Most likely, a different single page category page will be
+shown.
+
+Website link: https://smilepeggy.github.io/Coursera/assignments/assignment5-solution/
+
+
 
