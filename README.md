@@ -3,14 +3,20 @@ Coursera course: HTML, CSS, and Javascript for Web Developers by Johns Hopkins U
 
 practices and assignments
 
-## Assignment 2-solution
+## Website practice 
+Final practice Website: https://smilepeggy.github.io/Coursera/Restaurant-Website/
+
+Real Website: [David Chu's China Bistro Restaurant in Baltimore, MD](https://www.davidchuschinabistro.com/#/)
+
+
+## [Assignment 2-solution](https://smilepeggy.github.io/Coursera/assignments/assignment2-solution/)
 Task: 
 
 * Design 1 responsive page website without Twitter Bootstrap CSS Framework instead with @media percentage
  
 * Provided 3 mockups size : desktop(992px and above) and tablet(between 768px and 991px, inclusively), mobile (equal to or less than 767px). 
 
-Website link: https://smilepeggy.github.io/Coursera/assignments/assignment2-solution/
+[//]: # Website link: https://smilepeggy.github.io/Coursera/assignments/assignment2-solution/
 
 
 ## Assignment 3-solution
@@ -55,10 +61,10 @@ Website link: https://smilepeggy.github.io/Coursera/assignments/assignment4-solu
 
 ## Assignment 5-solution
 Task: 
-* Load the home page in the browser.
-* Click on the Specials tile. A single page category with a list of menu items for *some* category should appear.
-* Click on the restaurant logo to go back to the home page.
-* Click on the Specials tile again. Most likely, a different single page category page will be
+1. Load the home page in the browser.
+2. Click on the Specials tile. A single page category with a list of menu items for *some* category should appear.
+3. Click on the restaurant logo to go back to the home page.
+4. Click on the Specials tile again. Most likely, a different single page category page will be
 shown.
 
 Website link: https://smilepeggy.github.io/Coursera/assignments/assignment5-solution/
