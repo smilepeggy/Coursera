@@ -16,7 +16,7 @@ Task:
  
 * Provided 3 mockups size : desktop(992px and above) and tablet(between 768px and 991px, inclusively), mobile (equal to or less than 767px). 
 
-[//]: # Website link: https://smilepeggy.github.io/Coursera/assignments/assignment2-solution/
+[comment]: <Website link: https://smilepeggy.github.io/Coursera/assignments/assignment2-solution/>
 
 
 ## Assignment 3-solution
