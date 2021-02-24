@@ -9,7 +9,7 @@ Final practice Website: https://smilepeggy.github.io/Coursera/Restaurant-Website
 Real Website: [David Chu's China Bistro Restaurant in Baltimore, MD](https://www.davidchuschinabistro.com/#/)
 
 
-## [Assignment 2-solution](https://smilepeggy.github.io/Coursera/assignments/assignment2-solution/)
+## Assignment 2-solution
 Task: 
 
 * Design 1 responsive page website without Twitter Bootstrap CSS Framework instead with @media percentage
@@ -18,6 +18,7 @@ Task:
 
 [comment]: <Website link: https://smilepeggy.github.io/Coursera/assignments/assignment2-solution/>
 
+* [Assignment 2 Solution](https://smilepeggy.github.io/Coursera/assignments/assignment2-solution/)
 
 ## Assignment 3-solution
 Task: 
@@ -25,8 +26,10 @@ Task:
 * Design 1 responsive page website with Twitter Bootstrap CSS Framework 
  
 * Provided 3 mockups: desktop and tablet (same), mobile, and mobile with mobile menu dropdown shown. 
+ 
+* [Assignment 3 Solution](https://smilepeggy.github.io/Coursera/assignments/assignment3-solution/)
 
-Website link: https://smilepeggy.github.io/Coursera/assignments/assignment3-solution/
+[comment]: <Website link: https://smilepeggy.github.io/Coursera/assignments/assignment3-solution/>
 
 
 ## Assignment 4-solution
@@ -56,7 +59,8 @@ Hello Laura
 
 Good Bye Jim
 
-Website link: https://smilepeggy.github.io/Coursera/assignments/assignment4-solution/harder/
+[comment]: <Website link: https://smilepeggy.github.io/Coursera/assignments/assignment4-solution/harder/>
+* [Assignment 4 Solution](https://smilepeggy.github.io/Coursera/assignments/assignment4-solution/harder)
 
 
 ## Assignment 5-solution
@@ -67,7 +71,8 @@ Task:
 4. Click on the Specials tile again. Most likely, a different single page category page will be
 shown.
 
-Website link: https://smilepeggy.github.io/Coursera/assignments/assignment5-solution/
+[comment]: <Website link: https://smilepeggy.github.io/Coursera/assignments/assignment5-solution/>
 
+* [Assignment 5 Solution](https://smilepeggy.github.io/Coursera/assignments/assignment5-solution/)
 
 
